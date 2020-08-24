@@ -11,7 +11,7 @@ require (
 	github.com/google/go-cmp v0.5.1 // indirect
 	github.com/google/uuid v1.1.1
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
-	github.com/gorilla/schema v1.1.0
+	github.com/gorilla/schema v1.2.0
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/klauspost/cpuid v1.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
