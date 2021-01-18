@@ -9,7 +9,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.1.1
 	github.com/golang/protobuf v1.4.2
 	github.com/google/go-cmp v0.5.1 // indirect
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.1.5
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
 	github.com/gorilla/schema v1.1.0
 	github.com/json-iterator/go v1.1.10 // indirect
