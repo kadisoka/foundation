@@ -6,7 +6,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/aws/aws-sdk-go v1.37.9
 	github.com/emicklei/go-restful v2.15.0+incompatible
-	github.com/gabriel-vasile/mimetype v1.1.2
+	github.com/gabriel-vasile/mimetype v1.2.0
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.4.3
 	github.com/google/go-cmp v0.5.4 // indirect
