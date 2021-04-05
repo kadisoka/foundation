@@ -8,8 +8,7 @@ require (
 	github.com/emicklei/go-restful v2.15.0+incompatible
 	github.com/gabriel-vasile/mimetype v1.1.2
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang/protobuf v1.4.3
-	github.com/google/go-cmp v0.5.4 // indirect
+	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.2.0
 	github.com/gopherjs/gopherjs v0.0.0-20210202160940-bed99a852dfe // indirect
 	github.com/gorilla/schema v1.2.0
