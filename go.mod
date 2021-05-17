@@ -24,7 +24,7 @@ require (
 	github.com/rez-go/crock32 v0.0.0-20200519153512-7e09d352e310
 	github.com/rez-go/crux-apis v0.0.0-20200519131450-aab8ff73963b
 	github.com/rez-go/stev v0.0.0-20200515184012-e0723a6f3c19
-	github.com/rs/zerolog v1.20.0
+	github.com/rs/zerolog v1.22.0
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/stretchr/testify v1.7.0 // indirect
