@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/OneOfOne/xxhash v1.2.8
-	github.com/aws/aws-sdk-go v1.37.9
+	github.com/aws/aws-sdk-go v1.38.55
 	github.com/emicklei/go-restful v2.15.0+incompatible
 	github.com/gabriel-vasile/mimetype v1.1.2
 	github.com/gogo/protobuf v1.3.2 // indirect
